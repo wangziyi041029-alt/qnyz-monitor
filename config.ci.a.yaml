@@ -18,6 +18,8 @@ filters:
     - "和欣公寓"
   name: ""
   apply_scope: "personal"
+ filters:
+  # ... 其他不变 ...
   date_from: "2026-10-08"
   date_to: "2026-10-18"
   min_apply_number: 1
